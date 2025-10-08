@@ -73,6 +73,7 @@ It includes key components of the Sound’s food web:
 - Demersal and pelagic fish assemblages  
 - Invertebrates and primary producers  
 
+![Table part 1](Documents/EwE_model_domain_CS_Final.PNG)
 > **Figure 1:** Model domain for the Ecopath Cockburn Sound model, covering approximately 260 km².
 
 ---
@@ -88,7 +89,7 @@ Groups were defined to reflect:
 - **Conservation importance:**  
   Little Penguin, Bottlenose Dolphin, Australian Sea Lion, Cormorants, migratory Waders, Sharks  
 
-🔗 [View the full list of functional groups →](functional_groups.md)
+🔗 [View the full list of functional groups →](Groups/functional_groups.md)
 
 ---
 
@@ -105,11 +106,9 @@ Groups were defined to reflect:
 
 ## Citation
 
-If you use this model or documentation, please cite:
+If you use this model or documentation, please refer to the associated report and citation:
 
-> Cockburn Sound Ecopath Model (2025).  
-> Aquatic EcoDynamics Group, University of Western Australia.  
-> [https://github.com/AquaticEcoDynamics/CockburnSound-Ecopath-Model](https://github.com/AquaticEcoDynamics/CockburnSound-Ecopath-Model)
+[WAMSI-Westport Marine Science Program](https://wamsi.org.au/research_themes/ecosystem-modelling-2/)
 
 ---
 
@@ -117,11 +116,13 @@ If you use this model or documentation, please cite:
 
 ```
 📦 CockburnSound-Ecopath-Model
-├── data/                  # Input data: biomass, diet matrix, catches, etc.
 ├── model/                 # Ecopath model files (.ewemdb)
-├── figures/               # Domain map, trophic diagrams, results
-├── docs/                  # Supplementary documentation and tables
-├── functional_groups.md   # Full list of functional groups (tables)
+├── Documents/             # Supplementary documentation and tables
+├── Groups/                # Full list of functional groups (tables)
+├── Inputs/                # Input data: biomass, diet matrix, catches, etc.
+├── Outputs/               # Domain map, trophic diagrams, results
 ├── README.md              # This file
 └── LICENSE
 ```
+
+ 
