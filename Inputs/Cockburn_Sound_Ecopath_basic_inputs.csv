@@ -1,0 +1,74 @@
+,Group name,Hab area (proportion),Biomass in habitat area (t/kmý),Production / biomass (/year),Consumption / biomass (/year),Ecotrophic Efficiency,Other mortality,Production / consumption,Unassim. consumption,Detritus import (t/kmý/year)
+1,Large sharks,1,0.054,0.114,1.85,,,,0.2,0
+2,Barracudas,1,0.0544,0.18,3.5,,,,0.2,0
+3,Australian Sea Lion,1,0.0086,0.19,24.7,,,,0.2,0
+4,Bottlenose Dolphin,1,0.0823,0.08,21.67,,,,0.2,0
+5,Tailors,1,0.179,0.71,19.5,,,,0.2,0
+6,Cormorants,1,0.039,0.09,57.66,,,,0.2,0
+7,Squids,1,,0.84,16.64,0.95,,,0.2,0
+8,Australian Pelican,1,0.019,0.09,69.96,,,,0.2,0
+9,Gulls and Terns,1,0.01016,0.14,69.96,,,,0.2,0
+10,Little Penguin,0.1,0.0207,0.19,30.1,,,,0.2,0
+11,Scaly Mackerel,1,0.129,1.89,17.2,,,,0.2,0
+12,Small sharks,1,0.00281,0.361,2.1,,,,0.2,0
+13,Yellowtail Scad,1,0.3199,0.44,4.7,,,,0.2,0
+14,Cuttlefish,1,0.05189,0.84,16.64,,,,0.2,0
+15,Trevallies,0.1,94.97001,0.32,4.9,,,,0.2,0
+16,Flounders,1,3.438,0.86,7.1,,,,0.2,0
+17,Pink Snapper adult,1,0.3447,1.1,2.1,,,,0.2,0
+18,Pink Snapper pre-spawner,1,,0.47,4.5,0.95,,,0.2,0
+19,King George Whiting,1,0.949,0.41,11.4,,,,0.2,0
+20,Whiting Species,1,20.7,0.52,16.3,,,,0.2,0
+21,Small pelagics,1,7.1538,0.11,8.1,,,,0.2,0
+22,Western Australian Octopus,1,0.0866,1.1,7.3,,,,0.2,0
+23,Grunters,1,1.1014,1.12,7.8,,,,0.2,0
+24,Pipefishes,1,0.0912,0.8,31.6,,,,0.2,0
+25,Gurnards,1,0.19,0.8,11.89,,,,0.2,0
+26,Weedfish,1,0.221,1.85,18.2,,,,0.2,0
+27,Soldiers,1,0.897,0.48,6.3,,,,0.2,0
+28,PInk Snapper  juvenile,1,,1.58,6.7,0.95,,,0.2,0
+29,Other seabirds,1,0.0005,0.12,37.7,,,,0.2,0
+30,Rays,1,6.7726,0.326,4.12,,,,0.2,0
+31,Dragonets ,1,1.38,0.84,22.7,,,,0.2,0
+32,Southern Garfish,1,0.2852,0.9,13.6,,,,0.2,0
+33,Wrasses,1,0.813,0.47,11.5,,,,0.2,0
+34,Butterfishes,0.1,30.777,1.12,14.4,,,,0.2,0
+35,Demersal fish,1,111.589,0.17,4.7,,,,0.2,0
+36,Common Silverbelly,1,0.141,0.98,14.7,,,,0.2,0
+37,Goatfishes,1,0.823,1.09,7.36,,,,0.2,0
+38,Blue Sprat,1,23.624,1.2,31,,,,0.2,0
+39,Sandy Sprat,1,21.814,0.96,14.4,,,,0.2,0
+40,Pilchard,1,,0.78,26.6,0.95,,,0.2,0
+41,Australian Herring,1,0.297,0.92,16.8,,,,0.2,0
+42,Schooling species,1,0.193,0.89,12.6,,,,0.2,0
+43,Leatherjackets,1,1.384,0.914,12.3,,,,0.2,0
+44,Other crabs,1,0.885277,0.52,21.6,,,,0.2,0
+45,Blue Swimmer Crab,1,0.485,0.52,21.6,,,,0.2,0
+46,Mantis shrimp,1,0.0951,7.57,28.94,,,,0.2,0
+47,Seastars,1,0.197,1.49,3.24,,,,0.2,0
+48,Migratory waders,1,0.0001,0.18,42.3,,,,0.2,0
+49,Seahorses,1,0.0826,0.83,9.2,,,,0.2,0
+50,Mullets,1,4.911,0.76,12.5,,,,0.2,0
+51,Rabbitfish,1,,1.52,38.7,0.95,,,0.2,0
+52,Introduced species,5.00E-05,80.1,2.3,24,,,,0.2,0
+53,Western King Prawn,1,0.02631,7.57,22.7,,,,0.2,0
+54,Other prawns,1,0.121,7.57,28.94,,,,0.2,0
+55,Sea snails,1,0.0492,3.9,16.9,,,,0.2,0
+56,Black Mussel,1,5.75E-05,2.23,9.5,,,,0.2,0
+57,Corals,0.02,,0.08,3,0.95,,,0.2,0
+58,Ascidians,1,0.2275,2.3,24,,,,0.2,0
+59,Sea Cucumbers,1,0.09513,4.45,7.5,,,,0.2,0
+60,Sand dollars,1,0.83781,2.9,10.5,,,,0.2,0
+61,Sponges,1,0.0972,1.9,3.1,,,,0.2,0
+62,Bivalves,1,0.00989,1.35,7,,,,0.2,0
+63,Polychaetes,1,,4.85,24.2,0.95,,,0.2,0
+64,Bryozoans,1,0.07721,0.2,16,,,,0.2,0
+65,Urchins,1,16.2448,7.51,9.6,,,,0.2,0
+66,Zooplankton,1,,29.6,57,0.95,,,0,0
+67,Planktotrophic Larvae,1,,3,27,0.95,,,0.2,0
+68,Phytoplankton,1,,50.97,,0.95,,,0,0
+69,Seagrass,1,,7.3,,0.95,,,0,0
+70,Macroalgae,1,,2,,0.95,,,0,0
+71,Macroalgal Epiphytes,1,,2,,0.95,,,0,0
+72,Microphytobenthos,1,,706.5,,0.95,,,0,0
+73,Detritus,1,75,,,0,,,0,350

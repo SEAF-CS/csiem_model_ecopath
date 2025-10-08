@@ -1,0 +1,13 @@
+Trophic level \ Flow,Import,Consumption by predators,Export,Flow to detritus,Respiration,Throughput
+VIII,,0,0,0,0,0
+VII,,0.000026,0.000001,0.000124,0.000354,0.000504
+VI,,0.00178,0.000022,0.0117,0.0377,0.0512
+V,,0.0512,0.000545,0.471,1.585,2.108
+IV,,1.657,0.0192,11.8,40.65,54.13
+III,,40.57,0.17,203.2,729.1,973
+II,,673.4,0.134,778,2745,4197
+I,350,3199,253.9,85.99,0,3889
+Sum,350,3915,254.2,1079,3517,9115
+Extracted to break cycles,,,,,,2.616
+Input TL II+ (not in throughput),,,,,,1315
+Total throughput,,,,,,10433

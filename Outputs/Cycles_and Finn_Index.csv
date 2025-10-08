@@ -1,0 +1,8 @@
+Parameter,Value,Unit
+Throughput cycled (excluding detritus),1.228,t/kmý/year
+Predatory cycling index,0.0162,% of throughput without detritus
+Throughput cycled (including detritus),444.3,t/kmý/year
+Finn's cycling index,4.259,% of total throughput
+Finn's mean path length,2.767,none
+Finn's straight-through path length,2.153,without detritus
+Finn's straight-through path length,2.649,with detritus
